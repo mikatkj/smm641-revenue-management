@@ -1,8 +1,7 @@
-Revenue coursework 1 - methodologies:
+Revenue coursework 3
 
-- Single resource RM with 2 fare classes: booking limit, protection level
-- FCFS allocation (first-come-first-serve)
-- Multi-resource with multi-fare allocation
-- Dynamic programming
-- Linear programming: bid prices, heuristic policy
+- Consumer WTP data (willingness-to-pay)
+- Price optimization
+- Joint pricing and assortment optimisation
+- Markdown pricing strategy
 
