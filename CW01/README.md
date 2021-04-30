@@ -1,6 +1,6 @@
-Revenue coursework 1 - methodologies:
+Revenue coursework 1
 
-- Single resource RM with 2 fare classes: booking limit, protection level
+- Single resource RM with two-fare classes: booking limit, protection level
 - FCFS allocation (first-come-first-serve)
 - Multi-resource with multi-fare allocation
 - Dynamic programming
